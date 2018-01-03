@@ -387,7 +387,7 @@
 				TargetAttributes = {
 					0A4119691E92BBA300E37D76 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 538R2KUTXD;
+						DevelopmentTeam = WBE98W5UN6;
 						ProvisioningStyle = Automatic;
 					};
 					0A41197D1E92BBA300E37D76 = {
@@ -683,7 +683,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 538R2KUTXD;
+				DEVELOPMENT_TEAM = WBE98W5UN6;
 				INFOPLIST_FILE = Speedometer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lynda.Speedometer;
@@ -697,7 +697,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 538R2KUTXD;
+				DEVELOPMENT_TEAM = WBE98W5UN6;
 				INFOPLIST_FILE = Speedometer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lynda.Speedometer;
